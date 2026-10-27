@@ -1,0 +1,25 @@
+{
+  "username": "Omprakash18",
+  "results": [
+    {
+      "site": "GitHub",
+      "url": "https://api.github.com/users/Omprakash18",
+      "result": "FOUND"
+    },
+    {
+      "site": "GitLab",
+      "url": "https://gitlab.com/api/v4/users?username=Omprakash18",
+      "result": "NOT_FOUND"
+    },
+    {
+      "site": "Keybase",
+      "url": "https://keybase.io/Omprakash18",
+      "result": "NOT_FOUND"
+    },
+    {
+      "site": "Reddit",
+      "url": "https://www.reddit.com/user/Omprakash18/about.json",
+      "result": "BLOCKED"
+    }
+  ]
+}

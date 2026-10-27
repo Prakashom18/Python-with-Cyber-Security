@@ -1,0 +1,6 @@
+{
+  "GitHub":  {"url": "https://api.github.com/users/{username}", "method": "status"},
+  "GitLab":  {"url": "https://gitlab.com/api/v4/users?username={username}", "method": "list"},
+  "Keybase": {"url": "https://keybase.io/{username}", "method": "status"},
+  "Reddit":  {"url": "https://www.reddit.com/user/{username}/about.json", "method": "status"}
+}
