@@ -1,0 +1,12 @@
+{
+  "www.example.com": [
+    "crtsh",
+    "securitytrails"
+  ],
+  "mail.example.com": [
+    "crtsh"
+  ],
+  "dev.example.com": [
+    "securitytrails"
+  ]
+}
